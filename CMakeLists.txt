@@ -17,7 +17,9 @@ set ( CMAKE_CXX_EXTENSIONS        OFF )
 
 
 set ( SOURCE_ONE_WEEKEND
-  main.cc
+  src/main.cc
+  src/color.h
+  src/vec3.h
 )
 
 
